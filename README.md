@@ -6,7 +6,7 @@
 <p align="center"><strong>Cancel or speed up a pending Bitcoin payment.</strong><br>A native iPhone and iPad app built with SwiftUI.</p>
 
 <p align="center">
-  <a href="https://github.com/devdasx/takeback/actions/workflows/ci.yml"><img src="https://github.com/devdasx/takeback/actions/workflows/ci.yml/badge.svg" alt="Build and source checks"></a>
+  <a href="https://github.com/OathWallet/takeback/actions/workflows/ci.yml"><img src="https://github.com/OathWallet/takeback/actions/workflows/ci.yml/badge.svg" alt="Build and source checks"></a>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ HD scanning covers BIP44, BIP49, BIP84, and BIP86. Importing an account-level ex
 **Requirements:** macOS, Xcode 26.6 or newer, and the iOS SDK. The deployment target is iOS 17.0. The checked-in project includes pinned cryptographic sources and Geist fonts; no Swift package download is required.
 
 ```sh
-git clone https://github.com/devdasx/takeback.git
+git clone https://github.com/OathWallet/takeback.git
 cd takeback
 open Takeback.xcodeproj
 ```

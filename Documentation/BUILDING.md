@@ -5,7 +5,7 @@ The app uses Swift 6, SwiftUI, UIKit, C, and C++. Its deployment target is iOS 1
 ## Open the project
 
 ```sh
-git clone https://github.com/devdasx/takeback.git
+git clone https://github.com/OathWallet/takeback.git
 cd takeback
 open Takeback.xcodeproj
 ```

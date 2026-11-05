@@ -1208,7 +1208,7 @@
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Takeback/Takeback-Bridging-Header.h";
-				TAKEBACK_SOURCE_URL = "https://github.com/devdasx/takeback";
+				TAKEBACK_SOURCE_URL = "https://github.com/OathWallet/takeback";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -1366,7 +1366,7 @@
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Takeback/Takeback-Bridging-Header.h";
-				TAKEBACK_SOURCE_URL = "https://github.com/devdasx/takeback";
+				TAKEBACK_SOURCE_URL = "https://github.com/OathWallet/takeback";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;

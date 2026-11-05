@@ -4,7 +4,7 @@ Takeback handles Bitcoin signing material. Treat a locally built copy and its de
 
 ## Reporting a vulnerability
 
-Use [GitHub private vulnerability reporting](https://github.com/devdasx/takeback/security/advisories/new), enabled for this repository. Include the affected commit, impact, reproduction steps, and a minimal example using disposable public test keys. Never include a real recovery phrase, passphrase, private key, or signing credential.
+Use [GitHub private vulnerability reporting](https://github.com/OathWallet/takeback/security/advisories/new), enabled for this repository. Include the affected commit, impact, reproduction steps, and a minimal example using disposable public test keys. Never include a real recovery phrase, passphrase, private key, or signing credential.
 
 If the private reporting button is unavailable, open a public issue containing only a request for a private contact route—do not include exploit details or sensitive data. There is no published security email or guaranteed response deadline.
 
